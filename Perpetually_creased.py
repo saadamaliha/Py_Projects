@@ -1,7 +1,9 @@
 import random
 import textwrap
+"""This program generates a different poem at each run by randomly deleting
+and joining certain lines but keeping the first and last line the same every time"""
 
-# Updated list of lines for the poem
+# List of lines for the poem
 
 text = [
     "My plants are dying. It’s not a metaphor; it’s a fact",
